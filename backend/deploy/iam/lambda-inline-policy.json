@@ -1,0 +1,22 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": ["logs:CreateLogGroup", "logs:CreateLogStream", "logs:PutLogEvents"],
+      "Resource": "*"
+    },
+    {
+      "Effect": "Allow",
+      "Action": [
+        "dynamodb:GetItem", "dynamodb:PutItem", "dynamodb:UpdateItem", "dynamodb:DeleteItem", "dynamodb:Query"
+      ],
+      "Resource": ["arn:aws:dynamodb:ap-south-1:*:table/up4ds-*-main", "arn:aws:dynamodb:ap-south-1:*:table/up4ds-*-main/index/*"]
+    },
+    {
+      "Effect": "Allow",
+      "Action": "secretsmanager:GetSecretValue",
+      "Resource": "arn:aws:secretsmanager:ap-south-1:*:secret:up4ds/backend/*"
+    }
+  ]
+}

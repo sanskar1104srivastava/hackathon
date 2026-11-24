@@ -1,0 +1,45 @@
+{
+  "aws": {
+    "profile": "algoflow",
+    "region": "ap-south-1"
+  },
+  "packageType": "Image",
+  "ecrRepository": "up4ds-backend",
+  "environments": {
+    "dev": {
+      "appEnv": "dev",
+      "secretName": "up4ds/backend/dev",
+      "tableName": "up4ds-dev-main",
+      "lambdaNamePrefix": "up4ds-dev",
+      "lambdaExecutionRoleName": "up4ds-backend-dev-lambda-role",
+      "httpApiName": "up4ds-dev-http-api",
+      "imageTag": "dev"
+    },
+    "prod": {
+      "appEnv": "prod",
+      "secretName": "up4ds/backend/prod",
+      "tableName": "up4ds-prod-main",
+      "lambdaNamePrefix": "up4ds-prod",
+      "lambdaExecutionRoleName": "up4ds-backend-prod-lambda-role",
+      "httpApiName": "up4ds-prod-http-api",
+      "imageTag": "prod"
+    }
+  },
+  "modules": {
+    "appApi": {
+      "lambdaNameSuffix": "app-api",
+      "command": "modules.appApi.main.handler",
+      "memory": 1024,
+      "timeout": 60,
+      "trigger": "httpApi"
+    },
+    "followUpWorker": {
+      "lambdaNameSuffix": "follow-up-worker",
+      "command": "modules.followUpWorker.main.handler",
+      "memory": 512,
+      "timeout": 300,
+      "trigger": "schedule",
+      "scheduleExpression": "cron(30 3 * * ? *)"
+    }
+  }
+}

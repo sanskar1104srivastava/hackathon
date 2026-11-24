@@ -1,0 +1,48 @@
+{
+  "version": "poc-1",
+  "reviewNote": "Draft activities for the proof of concept; Hindi and content to be reviewed with a paediatrician and a Hindi speaker.",
+  "activities": [
+    {"id": "speechNamePictures", "focus": "speech", "stage": 1, "minAgeMonths": 18, "maxAgeMonths": 72, "checkMethod": "voice",
+     "titleHi": "चीज़ पहचानो", "stepsHi": "घर की 5 चीज़ें (कटोरी, चम्मच, गेंद, कपड़ा, चप्पल) एक-एक करके दिखाएँ और पूछें 'यह क्या है?'। सही बोलने पर ताली बजाएँ।"},
+    {"id": "speechRepeatWords", "focus": "speech", "stage": 1, "minAgeMonths": 12, "maxAgeMonths": 72, "checkMethod": "voice",
+     "titleHi": "शब्द दोहराओ", "stepsHi": "धीरे-धीरे 'मामा', 'पापा', 'पानी', 'दूध' बोलें और बच्चे से दोहराने को कहें। हर कोशिश पर शाबाशी दें।"},
+    {"id": "speechSongs", "focus": "speech", "stage": 2, "minAgeMonths": 18, "maxAgeMonths": 72, "checkMethod": "voice",
+     "titleHi": "कविता पूरी करो", "stepsHi": "रोज़ एक छोटी कविता साथ गाएँ, जैसे 'मछली जल की रानी है'। आख़िरी शब्द बच्चे से पूरा करवाएँ।"},
+    {"id": "speechTalkDuringWork", "focus": "speech", "stage": 2, "minAgeMonths": 6, "maxAgeMonths": 72, "checkMethod": "none",
+     "titleHi": "काम करते हुए बात", "stepsHi": "खाना बनाते या नहलाते समय जो कर रहे हैं वह बोलकर बताएँ, जैसे 'अब हम हाथ धो रहे हैं'। बच्चे को जवाब देने का मौक़ा दें।"},
+
+    {"id": "movementTummyTime", "focus": "movement", "stage": 1, "minAgeMonths": 0, "maxAgeMonths": 9, "checkMethod": "video",
+     "titleHi": "पेट के बल खेल", "stepsHi": "दिन में 3 बार कुछ मिनट बच्चे को पेट के बल लिटाएँ और सामने कोई रंगीन चीज़ रखें।"},
+    {"id": "movementSitPlay", "focus": "movement", "stage": 1, "minAgeMonths": 6, "maxAgeMonths": 18, "checkMethod": "video",
+     "titleHi": "सहारे से बैठना", "stepsHi": "तकिये के सहारे बिठाएँ और हाथ में खिलौना दें। रोज़ थोड़ा-थोड़ा सहारा कम करें।"},
+    {"id": "movementWalkHold", "focus": "movement", "stage": 1, "minAgeMonths": 9, "maxAgeMonths": 24, "checkMethod": "video",
+     "titleHi": "हाथ पकड़कर चलना", "stepsHi": "बच्चे के दोनों हाथ पकड़कर आँगन में 5 मिनट धीरे-धीरे चलाएँ।"},
+    {"id": "movementBall", "focus": "movement", "stage": 2, "minAgeMonths": 24, "maxAgeMonths": 72, "checkMethod": "video",
+     "titleHi": "गेंद पकड़ो", "stepsHi": "2-3 कदम दूर से कपड़े या काग़ज़ की गेंद धीरे से फेंकें और पकड़ने को कहें। 10 बार खेलें।"},
+    {"id": "movementBalance", "focus": "movement", "stage": 2, "minAgeMonths": 36, "maxAgeMonths": 72, "checkMethod": "video",
+     "titleHi": "एक पैर पर खड़े रहो", "stepsHi": "बच्चे के साथ एक पैर पर खड़े होने का खेल खेलें और साथ में 5 तक गिनें।"},
+
+    {"id": "socialPeekaboo", "focus": "social", "stage": 1, "minAgeMonths": 6, "maxAgeMonths": 30, "checkMethod": "none",
+     "titleHi": "झाँकी खेल", "stepsHi": "दुपट्टे से अपना चेहरा छुपाएँ और 'झाँकी!' कहकर दिखाएँ। बच्चे की आँखों में देखें और मुस्कुराएँ।"},
+    {"id": "socialTurnTaking", "focus": "social", "stage": 1, "minAgeMonths": 18, "maxAgeMonths": 72, "checkMethod": "video",
+     "titleHi": "बारी-बारी खेल", "stepsHi": "एक गेंद या कटोरी बारी-बारी से एक-दूसरे को दें। हर बार 'तुम्हारी बारी', 'मेरी बारी' बोलें।"},
+    {"id": "socialCallName", "focus": "social", "stage": 2, "minAgeMonths": 12, "maxAgeMonths": 72, "checkMethod": "none",
+     "titleHi": "नाम पुकारो", "stepsHi": "थोड़ी दूर से बच्चे का नाम पुकारें। मुड़कर देखे तो गले लगाएँ। दिन में 5 बार करें।"},
+
+    {"id": "learningLines", "focus": "learning", "stage": 1, "minAgeMonths": 30, "maxAgeMonths": 216, "checkMethod": "photo",
+     "titleHi": "लकीरें बनाओ", "stepsHi": "काग़ज़ पर एक सीधी और एक गोल लकीर बनाकर दिखाएँ। बच्चे से वैसी ही बनवाएँ और फ़ोटो भेजें।"},
+    {"id": "learningTraceDots", "focus": "learning", "stage": 2, "minAgeMonths": 36, "maxAgeMonths": 216, "checkMethod": "photo",
+     "titleHi": "बिंदु जोड़ो", "stepsHi": "काग़ज़ पर बिंदुओं से कोई आकार बनाएँ और बच्चे से बिंदु जोड़कर पूरा करवाएँ। फ़ोटो भेजें।"},
+
+    {"id": "dietIronFood", "focus": "nutrition", "stage": 1, "minAgeMonths": 6, "maxAgeMonths": 216, "checkMethod": "none",
+     "titleHi": "आयरन वाला खाना", "stepsHi": "आज खाने में हरी पत्तेदार सब्ज़ी, दाल, गुड़ या चना ज़रूर दें। साथ में नींबू या आँवला दें।"},
+    {"id": "dietMealFrequency", "focus": "nutrition", "stage": 1, "minAgeMonths": 6, "maxAgeMonths": 59, "checkMethod": "none",
+     "titleHi": "दिन में कई बार खाना", "stepsHi": "छोटे बच्चे को दिन में 4-5 बार थोड़ा-थोड़ा गाढ़ा खाना दें, जैसे दलिया, खिचड़ी, अंडा या दाल।"},
+    {"id": "dietIronMedicine", "focus": "nutrition", "stage": 1, "minAgeMonths": 6, "maxAgeMonths": 216, "checkMethod": "none",
+     "titleHi": "आयरन की दवा याद रखें", "stepsHi": "आँगनवाड़ी या आशा दीदी से मिली आयरन की दवा बताए गए दिनों पर ज़रूर दें।"},
+    {"id": "dietDeworming", "focus": "nutrition", "stage": 2, "minAgeMonths": 12, "maxAgeMonths": 216, "checkMethod": "none",
+     "titleHi": "पेट के कीड़ों की दवा", "stepsHi": "6 महीने से पेट के कीड़ों की दवा नहीं दी हो तो आँगनवाड़ी में पूछें। खाने से पहले हाथ धोने की आदत डालें।"},
+    {"id": "dietVaccination", "focus": "nutrition", "stage": 2, "minAgeMonths": 0, "maxAgeMonths": 216, "checkMethod": "none",
+     "titleHi": "टीके पूरे करें", "stepsHi": "बच्चे का टीका कार्ड देखें। कोई टीका छूटा हो तो अगले टीकाकरण दिवस पर ज़रूर लगवाएँ।"}
+  ]
+}

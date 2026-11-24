@@ -1,0 +1,3769 @@
+{
+ "source": "Local Government Directory via github.com/planemad/india-local-government-directory (blocks.csv)",
+ "state": "Uttar Pradesh",
+ "stateCode": 9,
+ "districts": [
+  {
+   "blocks": [
+    {
+     "blockCode": 803,
+     "blockName": "Achhnera"
+    },
+    {
+     "blockCode": 804,
+     "blockName": "Akola"
+    },
+    {
+     "blockCode": 805,
+     "blockName": "Bah"
+    },
+    {
+     "blockCode": 806,
+     "blockName": "Barauli Ahir"
+    },
+    {
+     "blockCode": 807,
+     "blockName": "Bichpuri"
+    },
+    {
+     "blockCode": 808,
+     "blockName": "Etmadpur"
+    },
+    {
+     "blockCode": 809,
+     "blockName": "Fatehabad"
+    },
+    {
+     "blockCode": 810,
+     "blockName": "Fatehpur Sikri"
+    },
+    {
+     "blockCode": 811,
+     "blockName": "Jagner"
+    },
+    {
+     "blockCode": 812,
+     "blockName": "Jaitpur Kalan"
+    },
+    {
+     "blockCode": 813,
+     "blockName": "Khandauli"
+    },
+    {
+     "blockCode": 814,
+     "blockName": "Kheragarh"
+    },
+    {
+     "blockCode": 815,
+     "blockName": "Pinahat"
+    },
+    {
+     "blockCode": 816,
+     "blockName": "Saiyan"
+    },
+    {
+     "blockCode": 817,
+     "blockName": "Shamsabad"
+    }
+   ],
+   "districtCode": 118,
+   "districtName": "Agra"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 818,
+     "blockName": "Akrabad"
+    },
+    {
+     "blockCode": 819,
+     "blockName": "Atrauli"
+    },
+    {
+     "blockCode": 820,
+     "blockName": "Bijauli"
+    },
+    {
+     "blockCode": 821,
+     "blockName": "Chandaus"
+    },
+    {
+     "blockCode": 822,
+     "blockName": "Dhanipur"
+    },
+    {
+     "blockCode": 823,
+     "blockName": "Gangiri"
+    },
+    {
+     "blockCode": 824,
+     "blockName": "Gonda"
+    },
+    {
+     "blockCode": 825,
+     "blockName": "Iglas"
+    },
+    {
+     "blockCode": 826,
+     "blockName": "Jawan Sikanderpur"
+    },
+    {
+     "blockCode": 827,
+     "blockName": "Khair"
+    },
+    {
+     "blockCode": 828,
+     "blockName": "Lodha"
+    },
+    {
+     "blockCode": 829,
+     "blockName": "Tappal"
+    }
+   ],
+   "districtCode": 119,
+   "districtName": "Aligarh"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 850,
+     "blockName": "Akbarpur"
+    },
+    {
+     "blockCode": 851,
+     "blockName": "Baskhari"
+    },
+    {
+     "blockCode": 852,
+     "blockName": "Bhiti"
+    },
+    {
+     "blockCode": 853,
+     "blockName": "Bhiyawan"
+    },
+    {
+     "blockCode": 854,
+     "blockName": "Jahangir Ganj"
+    },
+    {
+     "blockCode": 855,
+     "blockName": "Jalal Pur"
+    },
+    {
+     "blockCode": 856,
+     "blockName": "Katehari"
+    },
+    {
+     "blockCode": 857,
+     "blockName": "Ram Nagar"
+    },
+    {
+     "blockCode": 858,
+     "blockName": "Tanda"
+    }
+   ],
+   "districtCode": 121,
+   "districtName": "Ambedkar Nagar"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1578,
+     "blockName": "Amethi"
+    },
+    {
+     "blockCode": 1465,
+     "blockName": "Bahadurpur"
+    },
+    {
+     "blockCode": 1581,
+     "blockName": "Bhadar"
+    },
+    {
+     "blockCode": 1582,
+     "blockName": "Bhetua"
+    },
+    {
+     "blockCode": 1586,
+     "blockName": "Gauriganj"
+    },
+    {
+     "blockCode": 1587,
+     "blockName": "Jagdishpur"
+    },
+    {
+     "blockCode": 1589,
+     "blockName": "Jamo"
+    },
+    {
+     "blockCode": 1595,
+     "blockName": "Musafir Khana"
+    },
+    {
+     "blockCode": 1597,
+     "blockName": "Sangrampur"
+    },
+    {
+     "blockCode": 1598,
+     "blockName": "Shahgarh"
+    },
+    {
+     "blockCode": 1599,
+     "blockName": "Shukul Bazar"
+    },
+    {
+     "blockCode": 1481,
+     "blockName": "Singhpur"
+    },
+    {
+     "blockCode": 1482,
+     "blockName": "Tiloi"
+    }
+   ],
+   "districtCode": 640,
+   "districtName": "Amethi"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1252,
+     "blockName": "Amroha"
+    },
+    {
+     "blockCode": 1253,
+     "blockName": "Dhanaura"
+    },
+    {
+     "blockCode": 1254,
+     "blockName": "Gajraula"
+    },
+    {
+     "blockCode": 1255,
+     "blockName": "Gangeshwari"
+    },
+    {
+     "blockCode": 1256,
+     "blockName": "Hasanpur"
+    },
+    {
+     "blockCode": 1257,
+     "blockName": "Joya"
+    }
+   ],
+   "districtCode": 154,
+   "districtName": "Amroha"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 859,
+     "blockName": "Achchalda"
+    },
+    {
+     "blockCode": 860,
+     "blockName": "Ajitmal"
+    },
+    {
+     "blockCode": 861,
+     "blockName": "Auraiya"
+    },
+    {
+     "blockCode": 862,
+     "blockName": "Bhagyanagar"
+    },
+    {
+     "blockCode": 863,
+     "blockName": "Bidhuna"
+    },
+    {
+     "blockCode": 864,
+     "blockName": "Erwa Katra"
+    },
+    {
+     "blockCode": 865,
+     "blockName": "Sahar"
+    }
+   ],
+   "districtCode": 122,
+   "districtName": "Auraiya"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1086,
+     "blockName": "Amaniganj"
+    },
+    {
+     "blockCode": 1087,
+     "blockName": "Bikapur"
+    },
+    {
+     "blockCode": 1088,
+     "blockName": "Hariyangatanganj"
+    },
+    {
+     "blockCode": 1089,
+     "blockName": "Masodha"
+    },
+    {
+     "blockCode": 1090,
+     "blockName": "Mawai"
+    },
+    {
+     "blockCode": 1091,
+     "blockName": "Maya Bazar"
+    },
+    {
+     "blockCode": 1092,
+     "blockName": "Milkipur"
+    },
+    {
+     "blockCode": 1093,
+     "blockName": "Pura Bazar"
+    },
+    {
+     "blockCode": 954,
+     "blockName": "Rudauli"
+    },
+    {
+     "blockCode": 1094,
+     "blockName": "Sohawal"
+    },
+    {
+     "blockCode": 1095,
+     "blockName": "Tarun"
+    }
+   ],
+   "districtCode": 140,
+   "districtName": "Ayodhya"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 866,
+     "blockName": "Ahiraula"
+    },
+    {
+     "blockCode": 867,
+     "blockName": "Atraulia"
+    },
+    {
+     "blockCode": 868,
+     "blockName": "Azmatgarh"
+    },
+    {
+     "blockCode": 869,
+     "blockName": "Bilariyaganj"
+    },
+    {
+     "blockCode": 870,
+     "blockName": "Haraiya"
+    },
+    {
+     "blockCode": 871,
+     "blockName": "Jahanaganj"
+    },
+    {
+     "blockCode": 872,
+     "blockName": "Koilsa"
+    },
+    {
+     "blockCode": 873,
+     "blockName": "Lalganj"
+    },
+    {
+     "blockCode": 874,
+     "blockName": "Mahrajganj"
+    },
+    {
+     "blockCode": 875,
+     "blockName": "Martinganj"
+    },
+    {
+     "blockCode": 876,
+     "blockName": "Mehnagar"
+    },
+    {
+     "blockCode": 877,
+     "blockName": "Mirzapur"
+    },
+    {
+     "blockCode": 878,
+     "blockName": "Mohammadpur"
+    },
+    {
+     "blockCode": 879,
+     "blockName": "Palhana"
+    },
+    {
+     "blockCode": 880,
+     "blockName": "Palhani"
+    },
+    {
+     "blockCode": 881,
+     "blockName": "Pawai"
+    },
+    {
+     "blockCode": 882,
+     "blockName": "Phulpur"
+    },
+    {
+     "blockCode": 883,
+     "blockName": "Rani Ki Sarai"
+    },
+    {
+     "blockCode": 884,
+     "blockName": "Sathiyaon"
+    },
+    {
+     "blockCode": 885,
+     "blockName": "Tahbarpur"
+    },
+    {
+     "blockCode": 886,
+     "blockName": "Tarwa"
+    },
+    {
+     "blockCode": 887,
+     "blockName": "Thekma"
+    }
+   ],
+   "districtCode": 123,
+   "districtName": "Azamgarh"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 888,
+     "blockName": "Baghpat"
+    },
+    {
+     "blockCode": 889,
+     "blockName": "Baraut"
+    },
+    {
+     "blockCode": 890,
+     "blockName": "Binauli"
+    },
+    {
+     "blockCode": 891,
+     "blockName": "Chhaprauli"
+    },
+    {
+     "blockCode": 892,
+     "blockName": "Khekra"
+    },
+    {
+     "blockCode": 893,
+     "blockName": "Pilana"
+    }
+   ],
+   "districtCode": 124,
+   "districtName": "Baghpat"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 894,
+     "blockName": "Balaha"
+    },
+    {
+     "blockCode": 895,
+     "blockName": "Chitaura"
+    },
+    {
+     "blockCode": 896,
+     "blockName": "Huzoorpur"
+    },
+    {
+     "blockCode": 897,
+     "blockName": "Jarwal"
+    },
+    {
+     "blockCode": 898,
+     "blockName": "Kaisarganj"
+    },
+    {
+     "blockCode": 899,
+     "blockName": "Mahasi"
+    },
+    {
+     "blockCode": 900,
+     "blockName": "Mihinpurwa"
+    },
+    {
+     "blockCode": 901,
+     "blockName": "Nawabganj"
+    },
+    {
+     "blockCode": 903,
+     "blockName": "Payagpur"
+    },
+    {
+     "blockCode": 902,
+     "blockName": "Phakharpur"
+    },
+    {
+     "blockCode": 904,
+     "blockName": "Risia"
+    },
+    {
+     "blockCode": 905,
+     "blockName": "Shivpur"
+    },
+    {
+     "blockCode": 906,
+     "blockName": "Tejwapur"
+    },
+    {
+     "blockCode": 907,
+     "blockName": "Visheshwarganj"
+    }
+   ],
+   "districtCode": 125,
+   "districtName": "Bahraich"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 908,
+     "blockName": "Bairia"
+    },
+    {
+     "blockCode": 909,
+     "blockName": "Bansdih"
+    },
+    {
+     "blockCode": 910,
+     "blockName": "Belhari"
+    },
+    {
+     "blockCode": 911,
+     "blockName": "Beruarbari"
+    },
+    {
+     "blockCode": 912,
+     "blockName": "Chilkahar"
+    },
+    {
+     "blockCode": 913,
+     "blockName": "Dubhar"
+    },
+    {
+     "blockCode": 914,
+     "blockName": "Garwar"
+    },
+    {
+     "blockCode": 915,
+     "blockName": "Hanumanganj"
+    },
+    {
+     "blockCode": 916,
+     "blockName": "Maniar"
+    },
+    {
+     "blockCode": 917,
+     "blockName": "Murlichhapra"
+    },
+    {
+     "blockCode": 918,
+     "blockName": "Nagra"
+    },
+    {
+     "blockCode": 919,
+     "blockName": "Navanagar"
+    },
+    {
+     "blockCode": 920,
+     "blockName": "Pandah"
+    },
+    {
+     "blockCode": 921,
+     "blockName": "Rasra"
+    },
+    {
+     "blockCode": 922,
+     "blockName": "Reoti"
+    },
+    {
+     "blockCode": 923,
+     "blockName": "Siar"
+    },
+    {
+     "blockCode": 924,
+     "blockName": "Sohanv"
+    }
+   ],
+   "districtCode": 126,
+   "districtName": "Ballia"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 925,
+     "blockName": "Balrampur"
+    },
+    {
+     "blockCode": 926,
+     "blockName": "Gaindas Bujurg"
+    },
+    {
+     "blockCode": 927,
+     "blockName": "Gaisri"
+    },
+    {
+     "blockCode": 928,
+     "blockName": "Harriya Satgharwa"
+    },
+    {
+     "blockCode": 929,
+     "blockName": "Pachpedwa"
+    },
+    {
+     "blockCode": 930,
+     "blockName": "Rehera Bazaar"
+    },
+    {
+     "blockCode": 931,
+     "blockName": "Shriduttganj"
+    },
+    {
+     "blockCode": 932,
+     "blockName": "Tulsipur"
+    },
+    {
+     "blockCode": 933,
+     "blockName": "Utraula"
+    }
+   ],
+   "districtCode": 127,
+   "districtName": "Balrampur"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 934,
+     "blockName": "Baberu"
+    },
+    {
+     "blockCode": 935,
+     "blockName": "Badokhar Khurd"
+    },
+    {
+     "blockCode": 936,
+     "blockName": "Bisanda"
+    },
+    {
+     "blockCode": 937,
+     "blockName": "Jaspura"
+    },
+    {
+     "blockCode": 938,
+     "blockName": "Kamasin"
+    },
+    {
+     "blockCode": 939,
+     "blockName": "Mahuva"
+    },
+    {
+     "blockCode": 940,
+     "blockName": "Naraini"
+    },
+    {
+     "blockCode": 941,
+     "blockName": "Tindwari"
+    }
+   ],
+   "districtCode": 128,
+   "districtName": "Banda"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 942,
+     "blockName": "Bani Kodar"
+    },
+    {
+     "blockCode": 943,
+     "blockName": "Banki"
+    },
+    {
+     "blockCode": 944,
+     "blockName": "Dariyabad"
+    },
+    {
+     "blockCode": 945,
+     "blockName": "Dewa"
+    },
+    {
+     "blockCode": 946,
+     "blockName": "Fatehpur"
+    },
+    {
+     "blockCode": 947,
+     "blockName": "Haidargarh"
+    },
+    {
+     "blockCode": 948,
+     "blockName": "Harakh"
+    },
+    {
+     "blockCode": 949,
+     "blockName": "Masauli"
+    },
+    {
+     "blockCode": 951,
+     "blockName": "Nindaura"
+    },
+    {
+     "blockCode": 952,
+     "blockName": "Puredalai"
+    },
+    {
+     "blockCode": 953,
+     "blockName": "Ramnagar"
+    },
+    {
+     "blockCode": 955,
+     "blockName": "Sidhaur"
+    },
+    {
+     "blockCode": 956,
+     "blockName": "Sirauli Gauspur"
+    },
+    {
+     "blockCode": 957,
+     "blockName": "Suratganj"
+    },
+    {
+     "blockCode": 958,
+     "blockName": "Trivediganj"
+    }
+   ],
+   "districtCode": 129,
+   "districtName": "Barabanki"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 959,
+     "blockName": "Aalampur Jafarabad"
+    },
+    {
+     "blockCode": 960,
+     "blockName": "Baheri"
+    },
+    {
+     "blockCode": 961,
+     "blockName": "Bhadpura"
+    },
+    {
+     "blockCode": 962,
+     "blockName": "Bhojipura"
+    },
+    {
+     "blockCode": 963,
+     "blockName": "Bhuta"
+    },
+    {
+     "blockCode": 964,
+     "blockName": "Bithiri Chainpur"
+    },
+    {
+     "blockCode": 965,
+     "blockName": "Damkhauda"
+    },
+    {
+     "blockCode": 966,
+     "blockName": "Faridpur"
+    },
+    {
+     "blockCode": 967,
+     "blockName": "Fatehganj West"
+    },
+    {
+     "blockCode": 968,
+     "blockName": "Kyara"
+    },
+    {
+     "blockCode": 969,
+     "blockName": "Majhgawan"
+    },
+    {
+     "blockCode": 970,
+     "blockName": "Mirganj"
+    },
+    {
+     "blockCode": 971,
+     "blockName": "Nawabganj"
+    },
+    {
+     "blockCode": 972,
+     "blockName": "Ramnagar"
+    },
+    {
+     "blockCode": 973,
+     "blockName": "Shergarh"
+    }
+   ],
+   "districtCode": 130,
+   "districtName": "Bareilly"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 974,
+     "blockName": "Bahadurpur"
+    },
+    {
+     "blockCode": 975,
+     "blockName": "Bankati"
+    },
+    {
+     "blockCode": 976,
+     "blockName": "Basti"
+    },
+    {
+     "blockCode": 977,
+     "blockName": "Dubauliya"
+    },
+    {
+     "blockCode": 978,
+     "blockName": "Gaur"
+    },
+    {
+     "blockCode": 979,
+     "blockName": "Harraiya"
+    },
+    {
+     "blockCode": 980,
+     "blockName": "Kaptanganj"
+    },
+    {
+     "blockCode": 981,
+     "blockName": "Kudaraha"
+    },
+    {
+     "blockCode": 982,
+     "blockName": "Paras Rampur"
+    },
+    {
+     "blockCode": 983,
+     "blockName": "Ramnagar"
+    },
+    {
+     "blockCode": 984,
+     "blockName": "Rudauli"
+    },
+    {
+     "blockCode": 985,
+     "blockName": "Saltaua Gopal Pur"
+    },
+    {
+     "blockCode": 986,
+     "blockName": "Sau Ghat"
+    },
+    {
+     "blockCode": 987,
+     "blockName": "Vikram Jot"
+    }
+   ],
+   "districtCode": 131,
+   "districtName": "Basti"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1510,
+     "blockName": "Abhauli"
+    },
+    {
+     "blockCode": 1511,
+     "blockName": "Aurai"
+    },
+    {
+     "blockCode": 1512,
+     "blockName": "Bhadohi"
+    },
+    {
+     "blockCode": 1513,
+     "blockName": "Deegh"
+    },
+    {
+     "blockCode": 1514,
+     "blockName": "Gyanpur"
+    },
+    {
+     "blockCode": 1515,
+     "blockName": "Suriyavan"
+    }
+   ],
+   "districtCode": 179,
+   "districtName": "Bhadohi"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 988,
+     "blockName": "Afzalgarh"
+    },
+    {
+     "blockCode": 989,
+     "blockName": "Budhanpur Seohara"
+    },
+    {
+     "blockCode": 990,
+     "blockName": "Dhampur"
+    },
+    {
+     "blockCode": 991,
+     "blockName": "Haldaur(Khari Jhalu)"
+    },
+    {
+     "blockCode": 992,
+     "blockName": "Jalilpur"
+    },
+    {
+     "blockCode": 993,
+     "blockName": "Kiratpur"
+    },
+    {
+     "blockCode": 994,
+     "blockName": "Kotwali"
+    },
+    {
+     "blockCode": 995,
+     "blockName": "Mohammedpur Deomal"
+    },
+    {
+     "blockCode": 996,
+     "blockName": "Najibabad"
+    },
+    {
+     "blockCode": 997,
+     "blockName": "Nehtaur"
+    },
+    {
+     "blockCode": 998,
+     "blockName": "Noorpur"
+    }
+   ],
+   "districtCode": 132,
+   "districtName": "Bijnor"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 999,
+     "blockName": "Ambiapur"
+    },
+    {
+     "blockCode": 1000,
+     "blockName": "Asafpur"
+    },
+    {
+     "blockCode": 1001,
+     "blockName": "Bisauli"
+    },
+    {
+     "blockCode": 1002,
+     "blockName": "Dahgavan"
+    },
+    {
+     "blockCode": 1003,
+     "blockName": "Dataganj"
+    },
+    {
+     "blockCode": 1005,
+     "blockName": "Islamnagar"
+    },
+    {
+     "blockCode": 1006,
+     "blockName": "Jagat"
+    },
+    {
+     "blockCode": 1008,
+     "blockName": "Mion"
+    },
+    {
+     "blockCode": 1009,
+     "blockName": "Qadar Chowk"
+    },
+    {
+     "blockCode": 1011,
+     "blockName": "Sahaswan"
+    },
+    {
+     "blockCode": 1012,
+     "blockName": "Salarpur"
+    },
+    {
+     "blockCode": 1013,
+     "blockName": "Samrer"
+    },
+    {
+     "blockCode": 1014,
+     "blockName": "Ujhani"
+    },
+    {
+     "blockCode": 1015,
+     "blockName": "Usawan"
+    },
+    {
+     "blockCode": 1016,
+     "blockName": "Wazirganj"
+    }
+   ],
+   "districtCode": 133,
+   "districtName": "Budaun"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1017,
+     "blockName": "Agauta"
+    },
+    {
+     "blockCode": 1018,
+     "blockName": "Anupshahr"
+    },
+    {
+     "blockCode": 1019,
+     "blockName": "Araniya"
+    },
+    {
+     "blockCode": 1020,
+     "blockName": "Bhawan Bahadur Nagar"
+    },
+    {
+     "blockCode": 1021,
+     "blockName": "Bulandshahr"
+    },
+    {
+     "blockCode": 1022,
+     "blockName": "Danpur"
+    },
+    {
+     "blockCode": 1023,
+     "blockName": "Dibai"
+    },
+    {
+     "blockCode": 1024,
+     "blockName": "Gulaothi"
+    },
+    {
+     "blockCode": 1025,
+     "blockName": "Jahangirabad"
+    },
+    {
+     "blockCode": 1026,
+     "blockName": "Khurja"
+    },
+    {
+     "blockCode": 1027,
+     "blockName": "Lakhaothi"
+    },
+    {
+     "blockCode": 1028,
+     "blockName": "Pahasu"
+    },
+    {
+     "blockCode": 1029,
+     "blockName": "Shikarpur"
+    },
+    {
+     "blockCode": 1030,
+     "blockName": "Sikandrabad"
+    },
+    {
+     "blockCode": 1031,
+     "blockName": "Syana"
+    },
+    {
+     "blockCode": 1032,
+     "blockName": "Unchagaon"
+    }
+   ],
+   "districtCode": 134,
+   "districtName": "Bulandshahr"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1033,
+     "blockName": "Berahani"
+    },
+    {
+     "blockCode": 1034,
+     "blockName": "Chahniya"
+    },
+    {
+     "blockCode": 1035,
+     "blockName": "Chakiya"
+    },
+    {
+     "blockCode": 1036,
+     "blockName": "Chandauli"
+    },
+    {
+     "blockCode": 1037,
+     "blockName": "Dhanapur"
+    },
+    {
+     "blockCode": 1038,
+     "blockName": "Naugarh"
+    },
+    {
+     "blockCode": 1039,
+     "blockName": "Niyamatabad"
+    },
+    {
+     "blockCode": 1040,
+     "blockName": "Sahabganj"
+    },
+    {
+     "blockCode": 1041,
+     "blockName": "Sakaldiha"
+    }
+   ],
+   "districtCode": 135,
+   "districtName": "Chandauli"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1042,
+     "blockName": "Karwi"
+    },
+    {
+     "blockCode": 1043,
+     "blockName": "Manikpur"
+    },
+    {
+     "blockCode": 1044,
+     "blockName": "Mau"
+    },
+    {
+     "blockCode": 1045,
+     "blockName": "Pahari"
+    },
+    {
+     "blockCode": 1046,
+     "blockName": "Ramnagar"
+    }
+   ],
+   "districtCode": 136,
+   "districtName": "Chitrakoot"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1047,
+     "blockName": "Baitalpur"
+    },
+    {
+     "blockCode": 1048,
+     "blockName": "Bankata"
+    },
+    {
+     "blockCode": 1049,
+     "blockName": "Barhaj"
+    },
+    {
+     "blockCode": 1050,
+     "blockName": "Bhagalpur"
+    },
+    {
+     "blockCode": 1051,
+     "blockName": "Bhaluani"
+    },
+    {
+     "blockCode": 1052,
+     "blockName": "Bhatni"
+    },
+    {
+     "blockCode": 1053,
+     "blockName": "Bhatpar Rani"
+    },
+    {
+     "blockCode": 1054,
+     "blockName": "Deoria Sadar"
+    },
+    {
+     "blockCode": 1055,
+     "blockName": "Desai Deoria"
+    },
+    {
+     "blockCode": 1056,
+     "blockName": "Gauri Bazar"
+    },
+    {
+     "blockCode": 1057,
+     "blockName": "Lar"
+    },
+    {
+     "blockCode": 1058,
+     "blockName": "Pathar Dewa"
+    },
+    {
+     "blockCode": 1059,
+     "blockName": "Rampur Karkhana"
+    },
+    {
+     "blockCode": 1060,
+     "blockName": "Rudrapur"
+    },
+    {
+     "blockCode": 1061,
+     "blockName": "Salempur"
+    },
+    {
+     "blockCode": 1062,
+     "blockName": "Tarkalua"
+    }
+   ],
+   "districtCode": 137,
+   "districtName": "Deoria"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1063,
+     "blockName": "Aliganj"
+    },
+    {
+     "blockCode": 1065,
+     "blockName": "Awagarh"
+    },
+    {
+     "blockCode": 1067,
+     "blockName": "Jaithara"
+    },
+    {
+     "blockCode": 1068,
+     "blockName": "Jalesar"
+    },
+    {
+     "blockCode": 1070,
+     "blockName": "Marehra"
+    },
+    {
+     "blockCode": 1071,
+     "blockName": "Nidhauli Kalan"
+    },
+    {
+     "blockCode": 1074,
+     "blockName": "Sakit"
+    },
+    {
+     "blockCode": 1075,
+     "blockName": "Shitalpur"
+    }
+   ],
+   "districtCode": 138,
+   "districtName": "Etah"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1078,
+     "blockName": "Barhpura"
+    },
+    {
+     "blockCode": 1079,
+     "blockName": "Basrehar"
+    },
+    {
+     "blockCode": 1080,
+     "blockName": "Bharthana"
+    },
+    {
+     "blockCode": 1081,
+     "blockName": "Chakarnagar"
+    },
+    {
+     "blockCode": 1082,
+     "blockName": "Jaswantnagar"
+    },
+    {
+     "blockCode": 1083,
+     "blockName": "Mahewa"
+    },
+    {
+     "blockCode": 1084,
+     "blockName": "Sefai"
+    },
+    {
+     "blockCode": 1085,
+     "blockName": "Takha"
+    }
+   ],
+   "districtCode": 139,
+   "districtName": "Etawah"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1096,
+     "blockName": "Barhpur"
+    },
+    {
+     "blockCode": 1097,
+     "blockName": "Kaimganj"
+    },
+    {
+     "blockCode": 1098,
+     "blockName": "Kamalganj"
+    },
+    {
+     "blockCode": 1099,
+     "blockName": "Mohamdabad"
+    },
+    {
+     "blockCode": 1100,
+     "blockName": "Nawabganj"
+    },
+    {
+     "blockCode": 1101,
+     "blockName": "Rajepur"
+    },
+    {
+     "blockCode": 1102,
+     "blockName": "Shamsabad"
+    }
+   ],
+   "districtCode": 141,
+   "districtName": "Farrukhabad"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1103,
+     "blockName": "Airayan"
+    },
+    {
+     "blockCode": 1104,
+     "blockName": "Amauli"
+    },
+    {
+     "blockCode": 1105,
+     "blockName": "Asothar"
+    },
+    {
+     "blockCode": 1106,
+     "blockName": "Bahua"
+    },
+    {
+     "blockCode": 1107,
+     "blockName": "Bhitaura"
+    },
+    {
+     "blockCode": 1108,
+     "blockName": "Devmai"
+    },
+    {
+     "blockCode": 1109,
+     "blockName": "Dhata"
+    },
+    {
+     "blockCode": 1110,
+     "blockName": "Haswa"
+    },
+    {
+     "blockCode": 1111,
+     "blockName": "Hathgaon"
+    },
+    {
+     "blockCode": 1112,
+     "blockName": "Khajuha"
+    },
+    {
+     "blockCode": 1113,
+     "blockName": "Malwan"
+    },
+    {
+     "blockCode": 1114,
+     "blockName": "Telyani"
+    },
+    {
+     "blockCode": 1115,
+     "blockName": "Vijayipur"
+    }
+   ],
+   "districtCode": 142,
+   "districtName": "Fatehpur"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1116,
+     "blockName": "Araon"
+    },
+    {
+     "blockCode": 1117,
+     "blockName": "Eka"
+    },
+    {
+     "blockCode": 1118,
+     "blockName": "Firozabad"
+    },
+    {
+     "blockCode": 1119,
+     "blockName": "Hathwant"
+    },
+    {
+     "blockCode": 1120,
+     "blockName": "Jasrana"
+    },
+    {
+     "blockCode": 1121,
+     "blockName": "Madanpur"
+    },
+    {
+     "blockCode": 1122,
+     "blockName": "Narkhi"
+    },
+    {
+     "blockCode": 1123,
+     "blockName": "Shikohabad"
+    },
+    {
+     "blockCode": 1124,
+     "blockName": "Tundla"
+    }
+   ],
+   "districtCode": 143,
+   "districtName": "Firozabad"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1125,
+     "blockName": "Bisrakh"
+    },
+    {
+     "blockCode": 1126,
+     "blockName": "Dadri"
+    },
+    {
+     "blockCode": 1127,
+     "blockName": "Dankaur"
+    },
+    {
+     "blockCode": 1128,
+     "blockName": "Jewar"
+    }
+   ],
+   "districtCode": 144,
+   "districtName": "Gautam Buddha Nagar"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1129,
+     "blockName": "Bhojpur"
+    },
+    {
+     "blockCode": 1133,
+     "blockName": "Loni"
+    },
+    {
+     "blockCode": 1134,
+     "blockName": "Muradnagar"
+    },
+    {
+     "blockCode": 1135,
+     "blockName": "Rajapur"
+    }
+   ],
+   "districtCode": 145,
+   "districtName": "Ghaziabad"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1137,
+     "blockName": "Bhadaura"
+    },
+    {
+     "blockCode": 1138,
+     "blockName": "Bhanwarkol"
+    },
+    {
+     "blockCode": 1139,
+     "blockName": "Devkali"
+    },
+    {
+     "blockCode": 1140,
+     "blockName": "Ghazipur"
+    },
+    {
+     "blockCode": 1141,
+     "blockName": "Jakhania"
+    },
+    {
+     "blockCode": 1142,
+     "blockName": "Karanda"
+    },
+    {
+     "blockCode": 1143,
+     "blockName": "Kasimabad"
+    },
+    {
+     "blockCode": 1144,
+     "blockName": "Manihari"
+    },
+    {
+     "blockCode": 1145,
+     "blockName": "Mardah"
+    },
+    {
+     "blockCode": 1146,
+     "blockName": "Mohammadabad"
+    },
+    {
+     "blockCode": 1147,
+     "blockName": "Revatipur"
+    },
+    {
+     "blockCode": 1148,
+     "blockName": "Sadat"
+    },
+    {
+     "blockCode": 1149,
+     "blockName": "Saidpur"
+    },
+    {
+     "blockCode": 1150,
+     "blockName": "Varachakwar"
+    },
+    {
+     "blockCode": 1151,
+     "blockName": "Virno"
+    },
+    {
+     "blockCode": 1152,
+     "blockName": "Zamania"
+    }
+   ],
+   "districtCode": 146,
+   "districtName": "Ghazipur"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1153,
+     "blockName": "Babhanjot"
+    },
+    {
+     "blockCode": 1154,
+     "blockName": "Belsar"
+    },
+    {
+     "blockCode": 1155,
+     "blockName": "Chhapia"
+    },
+    {
+     "blockCode": 1156,
+     "blockName": "Colonelganj"
+    },
+    {
+     "blockCode": 1157,
+     "blockName": "Haldharmau"
+    },
+    {
+     "blockCode": 1158,
+     "blockName": "Itiathok"
+    },
+    {
+     "blockCode": 1159,
+     "blockName": "Jhanjhari"
+    },
+    {
+     "blockCode": 1160,
+     "blockName": "Katra Bazar"
+    },
+    {
+     "blockCode": 1161,
+     "blockName": "Mankapur"
+    },
+    {
+     "blockCode": 1162,
+     "blockName": "Mujehana"
+    },
+    {
+     "blockCode": 1163,
+     "blockName": "Nawabganj"
+    },
+    {
+     "blockCode": 1164,
+     "blockName": "Pandri Kripal"
+    },
+    {
+     "blockCode": 1165,
+     "blockName": "Paraspur"
+    },
+    {
+     "blockCode": 1166,
+     "blockName": "Rupaideeh"
+    },
+    {
+     "blockCode": 1167,
+     "blockName": "Tarabganj"
+    },
+    {
+     "blockCode": 1168,
+     "blockName": "Wazirganj"
+    }
+   ],
+   "districtCode": 147,
+   "districtName": "Gonda"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1169,
+     "blockName": "Bansgaon"
+    },
+    {
+     "blockCode": 1170,
+     "blockName": "Barhalganj"
+    },
+    {
+     "blockCode": 1171,
+     "blockName": "Belghat"
+    },
+    {
+     "blockCode": 7480,
+     "blockName": "Bharohiya"
+    },
+    {
+     "blockCode": 1172,
+     "blockName": "Bhathat"
+    },
+    {
+     "blockCode": 1173,
+     "blockName": "Brahmpur"
+    },
+    {
+     "blockCode": 1174,
+     "blockName": "Campierganj"
+    },
+    {
+     "blockCode": 1175,
+     "blockName": "Chargawan"
+    },
+    {
+     "blockCode": 1176,
+     "blockName": "Gagaha"
+    },
+    {
+     "blockCode": 1177,
+     "blockName": "Gola"
+    },
+    {
+     "blockCode": 1178,
+     "blockName": "Jangal Kaudia"
+    },
+    {
+     "blockCode": 1179,
+     "blockName": "Kauri Ram"
+    },
+    {
+     "blockCode": 1180,
+     "blockName": "Khajni"
+    },
+    {
+     "blockCode": 1181,
+     "blockName": "Khorabar"
+    },
+    {
+     "blockCode": 1182,
+     "blockName": "Pali"
+    },
+    {
+     "blockCode": 1183,
+     "blockName": "Pipraich"
+    },
+    {
+     "blockCode": 1184,
+     "blockName": "Piprauli"
+    },
+    {
+     "blockCode": 1185,
+     "blockName": "Sahjanawa"
+    },
+    {
+     "blockCode": 1186,
+     "blockName": "Sardarnagar"
+    },
+    {
+     "blockCode": 1187,
+     "blockName": "Uruwa"
+    }
+   ],
+   "districtCode": 148,
+   "districtName": "Gorakhpur"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1188,
+     "blockName": "Gohand"
+    },
+    {
+     "blockCode": 1189,
+     "blockName": "Kurara"
+    },
+    {
+     "blockCode": 1190,
+     "blockName": "Maudaha"
+    },
+    {
+     "blockCode": 1191,
+     "blockName": "Muskara"
+    },
+    {
+     "blockCode": 1192,
+     "blockName": "Rath"
+    },
+    {
+     "blockCode": 1193,
+     "blockName": "Sarila"
+    },
+    {
+     "blockCode": 1194,
+     "blockName": "Sumerpur"
+    }
+   ],
+   "districtCode": 149,
+   "districtName": "Hamirpur"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1130,
+     "blockName": "Dhaulana"
+    },
+    {
+     "blockCode": 1131,
+     "blockName": "Garh Mukteshwar"
+    },
+    {
+     "blockCode": 1132,
+     "blockName": "Hapur"
+    },
+    {
+     "blockCode": 1136,
+     "blockName": "Simbhawali"
+    }
+   ],
+   "districtCode": 661,
+   "districtName": "Hapur"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1195,
+     "blockName": "Ahirori"
+    },
+    {
+     "blockCode": 1196,
+     "blockName": "Bawan"
+    },
+    {
+     "blockCode": 1197,
+     "blockName": "Behendar"
+    },
+    {
+     "blockCode": 1198,
+     "blockName": "Bharawan"
+    },
+    {
+     "blockCode": 1199,
+     "blockName": "Bharkhani"
+    },
+    {
+     "blockCode": 1200,
+     "blockName": "Bilgram"
+    },
+    {
+     "blockCode": 1201,
+     "blockName": "Hariyawan"
+    },
+    {
+     "blockCode": 1202,
+     "blockName": "Harpalpur"
+    },
+    {
+     "blockCode": 1203,
+     "blockName": "Kachauna"
+    },
+    {
+     "blockCode": 1204,
+     "blockName": "Kothawan"
+    },
+    {
+     "blockCode": 1205,
+     "blockName": "Madhoganj"
+    },
+    {
+     "blockCode": 1206,
+     "blockName": "Mallawan"
+    },
+    {
+     "blockCode": 1207,
+     "blockName": "Pihani"
+    },
+    {
+     "blockCode": 1208,
+     "blockName": "Sandi"
+    },
+    {
+     "blockCode": 1209,
+     "blockName": "Sandila"
+    },
+    {
+     "blockCode": 1210,
+     "blockName": "Shahabad"
+    },
+    {
+     "blockCode": 1211,
+     "blockName": "Sursa"
+    },
+    {
+     "blockCode": 1212,
+     "blockName": "Tandiyawan"
+    },
+    {
+     "blockCode": 1213,
+     "blockName": "Todarpur"
+    }
+   ],
+   "districtCode": 150,
+   "districtName": "Hardoi"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1337,
+     "blockName": "Hasayan"
+    },
+    {
+     "blockCode": 1338,
+     "blockName": "Hathras"
+    },
+    {
+     "blockCode": 1339,
+     "blockName": "Mursan"
+    },
+    {
+     "blockCode": 1340,
+     "blockName": "Sadabad"
+    },
+    {
+     "blockCode": 1341,
+     "blockName": "Sasni"
+    },
+    {
+     "blockCode": 1342,
+     "blockName": "Sehpau"
+    },
+    {
+     "blockCode": 1343,
+     "blockName": "Sikandrarao"
+    }
+   ],
+   "districtCode": 163,
+   "districtName": "Hathras"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1214,
+     "blockName": "Dakore"
+    },
+    {
+     "blockCode": 1215,
+     "blockName": "Jalaun"
+    },
+    {
+     "blockCode": 1216,
+     "blockName": "Kadaura"
+    },
+    {
+     "blockCode": 1217,
+     "blockName": "Konch"
+    },
+    {
+     "blockCode": 1218,
+     "blockName": "Kuthaund"
+    },
+    {
+     "blockCode": 1219,
+     "blockName": "Madhogarh"
+    },
+    {
+     "blockCode": 1220,
+     "blockName": "Maheva"
+    },
+    {
+     "blockCode": 1221,
+     "blockName": "Nadigaon"
+    },
+    {
+     "blockCode": 1222,
+     "blockName": "Rampura"
+    }
+   ],
+   "districtCode": 151,
+   "districtName": "Jalaun"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1223,
+     "blockName": "Badla Pur"
+    },
+    {
+     "blockCode": 1224,
+     "blockName": "Baksha"
+    },
+    {
+     "blockCode": 1225,
+     "blockName": "Barasathi"
+    },
+    {
+     "blockCode": 1226,
+     "blockName": "Dharma Pur"
+    },
+    {
+     "blockCode": 1227,
+     "blockName": "Dobhi"
+    },
+    {
+     "blockCode": 1228,
+     "blockName": "Jalal Pur"
+    },
+    {
+     "blockCode": 1229,
+     "blockName": "Karanja Kala"
+    },
+    {
+     "blockCode": 1230,
+     "blockName": "Kerakat"
+    },
+    {
+     "blockCode": 1231,
+     "blockName": "Khuthan"
+    },
+    {
+     "blockCode": 1232,
+     "blockName": "Machchali Shahar"
+    },
+    {
+     "blockCode": 1233,
+     "blockName": "Maharaj Ganj"
+    },
+    {
+     "blockCode": 1234,
+     "blockName": "Mariyahu"
+    },
+    {
+     "blockCode": 1235,
+     "blockName": "Mufti Ganj"
+    },
+    {
+     "blockCode": 1236,
+     "blockName": "Mungra Badshah Pur"
+    },
+    {
+     "blockCode": 1237,
+     "blockName": "Ram Nagar"
+    },
+    {
+     "blockCode": 1238,
+     "blockName": "Ram Pur"
+    },
+    {
+     "blockCode": 1239,
+     "blockName": "Shah Ganj"
+    },
+    {
+     "blockCode": 1240,
+     "blockName": "Sikrara"
+    },
+    {
+     "blockCode": 1241,
+     "blockName": "Sirkoni"
+    },
+    {
+     "blockCode": 1242,
+     "blockName": "Suitha Kala"
+    },
+    {
+     "blockCode": 1243,
+     "blockName": "Sujan Ganj"
+    }
+   ],
+   "districtCode": 152,
+   "districtName": "Jaunpur"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1244,
+     "blockName": "Babina"
+    },
+    {
+     "blockCode": 1245,
+     "blockName": "Badagaon"
+    },
+    {
+     "blockCode": 1246,
+     "blockName": "Bamaur"
+    },
+    {
+     "blockCode": 1247,
+     "blockName": "Bangra"
+    },
+    {
+     "blockCode": 1248,
+     "blockName": "Chirgaon"
+    },
+    {
+     "blockCode": 1249,
+     "blockName": "Gursarai"
+    },
+    {
+     "blockCode": 1250,
+     "blockName": "Mauranipur"
+    },
+    {
+     "blockCode": 1251,
+     "blockName": "Moth"
+    }
+   ],
+   "districtCode": 153,
+   "districtName": "Jhansi"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1258,
+     "blockName": "Chhibramau"
+    },
+    {
+     "blockCode": 1259,
+     "blockName": "Gughrapur"
+    },
+    {
+     "blockCode": 1260,
+     "blockName": "Haseran"
+    },
+    {
+     "blockCode": 1261,
+     "blockName": "Jalalabad"
+    },
+    {
+     "blockCode": 1262,
+     "blockName": "Kannauj"
+    },
+    {
+     "blockCode": 1263,
+     "blockName": "Saurikh"
+    },
+    {
+     "blockCode": 1264,
+     "blockName": "Talgram"
+    },
+    {
+     "blockCode": 1265,
+     "blockName": "Umarda"
+    }
+   ],
+   "districtCode": 155,
+   "districtName": "Kannauj"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1266,
+     "blockName": "Akbarpur"
+    },
+    {
+     "blockCode": 1267,
+     "blockName": "Amrodha"
+    },
+    {
+     "blockCode": 1268,
+     "blockName": "Derapur"
+    },
+    {
+     "blockCode": 1269,
+     "blockName": "Jhinjhak"
+    },
+    {
+     "blockCode": 1270,
+     "blockName": "Maitha"
+    },
+    {
+     "blockCode": 1271,
+     "blockName": "Malasa"
+    },
+    {
+     "blockCode": 1272,
+     "blockName": "Rajpur"
+    },
+    {
+     "blockCode": 1273,
+     "blockName": "Rasulabad"
+    },
+    {
+     "blockCode": 1274,
+     "blockName": "Sandalpur"
+    },
+    {
+     "blockCode": 1275,
+     "blockName": "Sarbankhera"
+    }
+   ],
+   "districtCode": 156,
+   "districtName": "Kanpur Dehat"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1276,
+     "blockName": "Bhitargaon"
+    },
+    {
+     "blockCode": 1277,
+     "blockName": "Bilhaur"
+    },
+    {
+     "blockCode": 1278,
+     "blockName": "Chaubeypur"
+    },
+    {
+     "blockCode": 1279,
+     "blockName": "Ghatampur"
+    },
+    {
+     "blockCode": 1280,
+     "blockName": "Kakwan"
+    },
+    {
+     "blockCode": 1281,
+     "blockName": "Kalyanpur"
+    },
+    {
+     "blockCode": 1282,
+     "blockName": "Patara"
+    },
+    {
+     "blockCode": 1283,
+     "blockName": "Sarsol"
+    },
+    {
+     "blockCode": 1284,
+     "blockName": "Shivrajpur"
+    },
+    {
+     "blockCode": 1285,
+     "blockName": "Vidhunu"
+    }
+   ],
+   "districtCode": 157,
+   "districtName": "Kanpur Nagar"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1064,
+     "blockName": "Amanpur"
+    },
+    {
+     "blockCode": 1066,
+     "blockName": "Ganj Dundwara"
+    },
+    {
+     "blockCode": 1069,
+     "blockName": "Kasganj"
+    },
+    {
+     "blockCode": 1072,
+     "blockName": "Patiyali"
+    },
+    {
+     "blockCode": 1073,
+     "blockName": "Sahawar"
+    },
+    {
+     "blockCode": 1076,
+     "blockName": "Sidhpura"
+    },
+    {
+     "blockCode": 1077,
+     "blockName": "Soron"
+    }
+   ],
+   "districtCode": 633,
+   "districtName": "Kasganj"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1286,
+     "blockName": "Chail"
+    },
+    {
+     "blockCode": 1287,
+     "blockName": "Kara"
+    },
+    {
+     "blockCode": 1288,
+     "blockName": "Kaushambi"
+    },
+    {
+     "blockCode": 1289,
+     "blockName": "Manjhanpur"
+    },
+    {
+     "blockCode": 1290,
+     "blockName": "Mooratganj"
+    },
+    {
+     "blockCode": 1291,
+     "blockName": "Nevada"
+    },
+    {
+     "blockCode": 1292,
+     "blockName": "Sarsawan"
+    },
+    {
+     "blockCode": 1293,
+     "blockName": "Sirathu"
+    }
+   ],
+   "districtCode": 158,
+   "districtName": "Kaushambi"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1294,
+     "blockName": "Bankeyganj"
+    },
+    {
+     "blockCode": 1295,
+     "blockName": "Behjam"
+    },
+    {
+     "blockCode": 1296,
+     "blockName": "Bijuwa"
+    },
+    {
+     "blockCode": 1297,
+     "blockName": "Dhaurhara"
+    },
+    {
+     "blockCode": 1298,
+     "blockName": "Isanagar"
+    },
+    {
+     "blockCode": 1299,
+     "blockName": "Kumbhigola"
+    },
+    {
+     "blockCode": 1300,
+     "blockName": "Lakhimpur"
+    },
+    {
+     "blockCode": 1301,
+     "blockName": "Mitauli"
+    },
+    {
+     "blockCode": 1302,
+     "blockName": "Mohammadi"
+    },
+    {
+     "blockCode": 1303,
+     "blockName": "Nakaha"
+    },
+    {
+     "blockCode": 1304,
+     "blockName": "Nighasan"
+    },
+    {
+     "blockCode": 1305,
+     "blockName": "Palia"
+    },
+    {
+     "blockCode": 1306,
+     "blockName": "Pasgawan"
+    },
+    {
+     "blockCode": 1307,
+     "blockName": "Phoolbehar"
+    },
+    {
+     "blockCode": 1308,
+     "blockName": "Ramia Behar"
+    }
+   ],
+   "districtCode": 159,
+   "districtName": "Kheri"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1309,
+     "blockName": "Dudhahi"
+    },
+    {
+     "blockCode": 1310,
+     "blockName": "Fazilnagar"
+    },
+    {
+     "blockCode": 1311,
+     "blockName": "Hata"
+    },
+    {
+     "blockCode": 1312,
+     "blockName": "Kaptainganj"
+    },
+    {
+     "blockCode": 1313,
+     "blockName": "Kasaya"
+    },
+    {
+     "blockCode": 1314,
+     "blockName": "Khadda"
+    },
+    {
+     "blockCode": 7110,
+     "blockName": "Kubernath"
+    },
+    {
+     "blockCode": 1315,
+     "blockName": "Motichak"
+    },
+    {
+     "blockCode": 1316,
+     "blockName": "Nebua Naurangia"
+    },
+    {
+     "blockCode": 1317,
+     "blockName": "Padrauna"
+    },
+    {
+     "blockCode": 1318,
+     "blockName": "Ramkola"
+    },
+    {
+     "blockCode": 1319,
+     "blockName": "Seorahi"
+    },
+    {
+     "blockCode": 1320,
+     "blockName": "Sukrauli"
+    },
+    {
+     "blockCode": 1321,
+     "blockName": "Tamkuhiraj"
+    },
+    {
+     "blockCode": 1322,
+     "blockName": "Vishunpura"
+    }
+   ],
+   "districtCode": 160,
+   "districtName": "Kushi Nagar"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1323,
+     "blockName": "Bar"
+    },
+    {
+     "blockCode": 1324,
+     "blockName": "Birdha"
+    },
+    {
+     "blockCode": 1325,
+     "blockName": "Jakhaura"
+    },
+    {
+     "blockCode": 1326,
+     "blockName": "Mandawara"
+    },
+    {
+     "blockCode": 1327,
+     "blockName": "Mehroni"
+    },
+    {
+     "blockCode": 1328,
+     "blockName": "Talbehat"
+    }
+   ],
+   "districtCode": 161,
+   "districtName": "Lalitpur"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1329,
+     "blockName": "Bakshi-Ka-Talab"
+    },
+    {
+     "blockCode": 1330,
+     "blockName": "Chinhat"
+    },
+    {
+     "blockCode": 1331,
+     "blockName": "Gosaiganj"
+    },
+    {
+     "blockCode": 1332,
+     "blockName": "Kakori"
+    },
+    {
+     "blockCode": 1333,
+     "blockName": "Mal"
+    },
+    {
+     "blockCode": 1334,
+     "blockName": "Malihabad"
+    },
+    {
+     "blockCode": 1335,
+     "blockName": "Mohanlalganj"
+    },
+    {
+     "blockCode": 1336,
+     "blockName": "Sarojaninagar"
+    }
+   ],
+   "districtCode": 162,
+   "districtName": "Lucknow"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1344,
+     "blockName": "Bridgemanganj"
+    },
+    {
+     "blockCode": 1345,
+     "blockName": "Dhani"
+    },
+    {
+     "blockCode": 1346,
+     "blockName": "Ghughli"
+    },
+    {
+     "blockCode": 1347,
+     "blockName": "Lakshmipur"
+    },
+    {
+     "blockCode": 1348,
+     "blockName": "Mahrajganj"
+    },
+    {
+     "blockCode": 1349,
+     "blockName": "Mithaura"
+    },
+    {
+     "blockCode": 1350,
+     "blockName": "Nautanwa"
+    },
+    {
+     "blockCode": 1351,
+     "blockName": "Nichlaul"
+    },
+    {
+     "blockCode": 1352,
+     "blockName": "Paniyara"
+    },
+    {
+     "blockCode": 1353,
+     "blockName": "Partawal"
+    },
+    {
+     "blockCode": 1354,
+     "blockName": "Pharenda"
+    },
+    {
+     "blockCode": 1355,
+     "blockName": "Siswa"
+    }
+   ],
+   "districtCode": 164,
+   "districtName": "Maharajganj"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1356,
+     "blockName": "Charkhari"
+    },
+    {
+     "blockCode": 1357,
+     "blockName": "Jaitpur"
+    },
+    {
+     "blockCode": 1358,
+     "blockName": "Kabrai"
+    },
+    {
+     "blockCode": 1359,
+     "blockName": "Panwari"
+    }
+   ],
+   "districtCode": 165,
+   "districtName": "Mahoba"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1360,
+     "blockName": "Barnahal"
+    },
+    {
+     "blockCode": 1361,
+     "blockName": "Bewar"
+    },
+    {
+     "blockCode": 1362,
+     "blockName": "Ghiror"
+    },
+    {
+     "blockCode": 1363,
+     "blockName": "Jageer"
+    },
+    {
+     "blockCode": 1364,
+     "blockName": "Karhal"
+    },
+    {
+     "blockCode": 1365,
+     "blockName": "Kishni"
+    },
+    {
+     "blockCode": 1366,
+     "blockName": "Kuraoli"
+    },
+    {
+     "blockCode": 1367,
+     "blockName": "Mainpuri"
+    },
+    {
+     "blockCode": 1368,
+     "blockName": "Sultanganj"
+    }
+   ],
+   "districtCode": 166,
+   "districtName": "Mainpuri"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1369,
+     "blockName": "Baldeo"
+    },
+    {
+     "blockCode": 1370,
+     "blockName": "Chaumuha"
+    },
+    {
+     "blockCode": 1371,
+     "blockName": "Chhata"
+    },
+    {
+     "blockCode": 1372,
+     "blockName": "Farah"
+    },
+    {
+     "blockCode": 1373,
+     "blockName": "Govardhan"
+    },
+    {
+     "blockCode": 1374,
+     "blockName": "Mat"
+    },
+    {
+     "blockCode": 1375,
+     "blockName": "Mathura"
+    },
+    {
+     "blockCode": 1376,
+     "blockName": "Nandgaon"
+    },
+    {
+     "blockCode": 1377,
+     "blockName": "Nohjhil"
+    },
+    {
+     "blockCode": 1378,
+     "blockName": "Raya"
+    }
+   ],
+   "districtCode": 167,
+   "districtName": "Mathura"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1379,
+     "blockName": "Badraon"
+    },
+    {
+     "blockCode": 1380,
+     "blockName": "Dohri Ghat"
+    },
+    {
+     "blockCode": 1381,
+     "blockName": "Fatehpur Madaun"
+    },
+    {
+     "blockCode": 1382,
+     "blockName": "Ghosi"
+    },
+    {
+     "blockCode": 1383,
+     "blockName": "Kopaganj"
+    },
+    {
+     "blockCode": 1384,
+     "blockName": "Mohammadabad Gohana"
+    },
+    {
+     "blockCode": 1385,
+     "blockName": "Pardaha"
+    },
+    {
+     "blockCode": 1386,
+     "blockName": "Ranipur"
+    },
+    {
+     "blockCode": 1387,
+     "blockName": "Ratanpura"
+    }
+   ],
+   "districtCode": 168,
+   "districtName": "Mau"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1388,
+     "blockName": "Daurala"
+    },
+    {
+     "blockCode": 1389,
+     "blockName": "Hastinapur"
+    },
+    {
+     "blockCode": 1390,
+     "blockName": "Janikhurd"
+    },
+    {
+     "blockCode": 1391,
+     "blockName": "Kharkhoda"
+    },
+    {
+     "blockCode": 1392,
+     "blockName": "Machra"
+    },
+    {
+     "blockCode": 1393,
+     "blockName": "Mawana Kalan"
+    },
+    {
+     "blockCode": 1394,
+     "blockName": "Meerut"
+    },
+    {
+     "blockCode": 1395,
+     "blockName": "Parikshitgarh"
+    },
+    {
+     "blockCode": 1396,
+     "blockName": "Rajpura"
+    },
+    {
+     "blockCode": 1397,
+     "blockName": "Rohta"
+    },
+    {
+     "blockCode": 1398,
+     "blockName": "Sardhana"
+    },
+    {
+     "blockCode": 1399,
+     "blockName": "Sarurpur Khurd"
+    }
+   ],
+   "districtCode": 169,
+   "districtName": "Meerut"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1400,
+     "blockName": "Chhanvey"
+    },
+    {
+     "blockCode": 1401,
+     "blockName": "Hallia"
+    },
+    {
+     "blockCode": 1402,
+     "blockName": "Jamalpur"
+    },
+    {
+     "blockCode": 1403,
+     "blockName": "Kon"
+    },
+    {
+     "blockCode": 1404,
+     "blockName": "Lalganj"
+    },
+    {
+     "blockCode": 1405,
+     "blockName": "Majhawa"
+    },
+    {
+     "blockCode": 1406,
+     "blockName": "Nagar (City)"
+    },
+    {
+     "blockCode": 1407,
+     "blockName": "Narainpur"
+    },
+    {
+     "blockCode": 1408,
+     "blockName": "Pahari"
+    },
+    {
+     "blockCode": 1409,
+     "blockName": "Patehra"
+    },
+    {
+     "blockCode": 1410,
+     "blockName": "Rajgarh"
+    },
+    {
+     "blockCode": 1411,
+     "blockName": "Shikhar"
+    }
+   ],
+   "districtCode": 170,
+   "districtName": "Mirzapur"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1415,
+     "blockName": "Bhagatpur Tanda"
+    },
+    {
+     "blockCode": 1416,
+     "blockName": "Bilari"
+    },
+    {
+     "blockCode": 1417,
+     "blockName": "Chhajlet"
+    },
+    {
+     "blockCode": 1418,
+     "blockName": "Dilari"
+    },
+    {
+     "blockCode": 1419,
+     "blockName": "Kundarki"
+    },
+    {
+     "blockCode": 1420,
+     "blockName": "Moradabad"
+    },
+    {
+     "blockCode": 1421,
+     "blockName": "Munda Pandey"
+    },
+    {
+     "blockCode": 1424,
+     "blockName": "Thakurdwara"
+    }
+   ],
+   "districtCode": 171,
+   "districtName": "Moradabad"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1425,
+     "blockName": "Baghara"
+    },
+    {
+     "blockCode": 1426,
+     "blockName": "Budhana"
+    },
+    {
+     "blockCode": 1427,
+     "blockName": "Charthawal"
+    },
+    {
+     "blockCode": 1428,
+     "blockName": "Jansath"
+    },
+    {
+     "blockCode": 1431,
+     "blockName": "Khatauli"
+    },
+    {
+     "blockCode": 1432,
+     "blockName": "Morna"
+    },
+    {
+     "blockCode": 1433,
+     "blockName": "Muzaffarnagar"
+    },
+    {
+     "blockCode": 1434,
+     "blockName": "Purkaji"
+    },
+    {
+     "blockCode": 1435,
+     "blockName": "Shahpur"
+    }
+   ],
+   "districtCode": 172,
+   "districtName": "Muzaffarnagar"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1439,
+     "blockName": "Amariya"
+    },
+    {
+     "blockCode": 1440,
+     "blockName": "Barkhera"
+    },
+    {
+     "blockCode": 1441,
+     "blockName": "Bilsanda"
+    },
+    {
+     "blockCode": 1442,
+     "blockName": "Bisalpur"
+    },
+    {
+     "blockCode": 1443,
+     "blockName": "Lalaurikhera"
+    },
+    {
+     "blockCode": 1444,
+     "blockName": "Marori"
+    },
+    {
+     "blockCode": 1445,
+     "blockName": "Puranpur"
+    }
+   ],
+   "districtCode": 173,
+   "districtName": "Pilibhit"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1446,
+     "blockName": "Aspur Deosara"
+    },
+    {
+     "blockCode": 1447,
+     "blockName": "Baba Belkharnath Dham"
+    },
+    {
+     "blockCode": 1448,
+     "blockName": "Babaganj"
+    },
+    {
+     "blockCode": 1449,
+     "blockName": "Bihar"
+    },
+    {
+     "blockCode": 1450,
+     "blockName": "Gaura"
+    },
+    {
+     "blockCode": 1451,
+     "blockName": "Kalakankar"
+    },
+    {
+     "blockCode": 1452,
+     "blockName": "Kunda"
+    },
+    {
+     "blockCode": 1453,
+     "blockName": "Lakshamanpur"
+    },
+    {
+     "blockCode": 1454,
+     "blockName": "Lalganj"
+    },
+    {
+     "blockCode": 1455,
+     "blockName": "Magraura"
+    },
+    {
+     "blockCode": 1456,
+     "blockName": "Mandhata"
+    },
+    {
+     "blockCode": 1457,
+     "blockName": "Patti"
+    },
+    {
+     "blockCode": 1458,
+     "blockName": "Pratapgarh (Sadar)"
+    },
+    {
+     "blockCode": 1459,
+     "blockName": "Rampur Sanramgarh"
+    },
+    {
+     "blockCode": 1460,
+     "blockName": "Sandwa Chandrika"
+    },
+    {
+     "blockCode": 1461,
+     "blockName": "Sangipur"
+    },
+    {
+     "blockCode": 1462,
+     "blockName": "Shivgarh"
+    }
+   ],
+   "districtCode": 174,
+   "districtName": "Pratapgarh"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 830,
+     "blockName": "Bahadurpur"
+    },
+    {
+     "blockCode": 831,
+     "blockName": "Bahria"
+    },
+    {
+     "blockCode": 7359,
+     "blockName": "Bhagwatpur"
+    },
+    {
+     "blockCode": 832,
+     "blockName": "Chaka"
+    },
+    {
+     "blockCode": 833,
+     "blockName": "Dhanupur"
+    },
+    {
+     "blockCode": 834,
+     "blockName": "Handia"
+    },
+    {
+     "blockCode": 835,
+     "blockName": "Holagarh"
+    },
+    {
+     "blockCode": 836,
+     "blockName": "Jasra"
+    },
+    {
+     "blockCode": 837,
+     "blockName": "Karchhana"
+    },
+    {
+     "blockCode": 838,
+     "blockName": "Kaudhiyara"
+    },
+    {
+     "blockCode": 839,
+     "blockName": "Kaurihar"
+    },
+    {
+     "blockCode": 840,
+     "blockName": "Koraon"
+    },
+    {
+     "blockCode": 841,
+     "blockName": "Manda"
+    },
+    {
+     "blockCode": 842,
+     "blockName": "Mauaima"
+    },
+    {
+     "blockCode": 843,
+     "blockName": "Meja"
+    },
+    {
+     "blockCode": 844,
+     "blockName": "Phulpur"
+    },
+    {
+     "blockCode": 845,
+     "blockName": "Pratappur"
+    },
+    {
+     "blockCode": 7360,
+     "blockName": "Sahson"
+    },
+    {
+     "blockCode": 846,
+     "blockName": "Saidabad"
+    },
+    {
+     "blockCode": 847,
+     "blockName": "Shankargarh"
+    },
+    {
+     "blockCode": 848,
+     "blockName": "Soraon"
+    },
+    {
+     "blockCode": 7361,
+     "blockName": "Sringverpur Dham"
+    },
+    {
+     "blockCode": 849,
+     "blockName": "Uruwan"
+    }
+   ],
+   "districtCode": 120,
+   "districtName": "Prayagraj"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1463,
+     "blockName": "Amawan"
+    },
+    {
+     "blockCode": 1464,
+     "blockName": "Bachharawan"
+    },
+    {
+     "blockCode": 1466,
+     "blockName": "Chhatoh"
+    },
+    {
+     "blockCode": 1467,
+     "blockName": "Dalmau"
+    },
+    {
+     "blockCode": 1468,
+     "blockName": "Deenshah Gaura"
+    },
+    {
+     "blockCode": 1469,
+     "blockName": "Dih"
+    },
+    {
+     "blockCode": 1470,
+     "blockName": "Harchandpur"
+    },
+    {
+     "blockCode": 1471,
+     "blockName": "Jagatpur"
+    },
+    {
+     "blockCode": 1472,
+     "blockName": "Khiron"
+    },
+    {
+     "blockCode": 1473,
+     "blockName": "Lalganj"
+    },
+    {
+     "blockCode": 1474,
+     "blockName": "Mahrajganj"
+    },
+    {
+     "blockCode": 1475,
+     "blockName": "Rahi"
+    },
+    {
+     "blockCode": 1476,
+     "blockName": "Rohania"
+    },
+    {
+     "blockCode": 1477,
+     "blockName": "Salon"
+    },
+    {
+     "blockCode": 1478,
+     "blockName": "Sareni"
+    },
+    {
+     "blockCode": 1479,
+     "blockName": "Sataon"
+    },
+    {
+     "blockCode": 1480,
+     "blockName": "Shivgarh"
+    },
+    {
+     "blockCode": 1483,
+     "blockName": "Unchahar"
+    }
+   ],
+   "districtCode": 175,
+   "districtName": "Rae Bareli"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1484,
+     "blockName": "Bilaspur"
+    },
+    {
+     "blockCode": 1485,
+     "blockName": "Chamraon"
+    },
+    {
+     "blockCode": 1486,
+     "blockName": "Milak"
+    },
+    {
+     "blockCode": 1487,
+     "blockName": "Saidnagar"
+    },
+    {
+     "blockCode": 1488,
+     "blockName": "Shahabad"
+    },
+    {
+     "blockCode": 1489,
+     "blockName": "Suar"
+    }
+   ],
+   "districtCode": 176,
+   "districtName": "Rampur"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1490,
+     "blockName": "Ballia Kheri"
+    },
+    {
+     "blockCode": 1491,
+     "blockName": "Deoband"
+    },
+    {
+     "blockCode": 1492,
+     "blockName": "Gangoh"
+    },
+    {
+     "blockCode": 1493,
+     "blockName": "Muzaffarabad"
+    },
+    {
+     "blockCode": 1494,
+     "blockName": "Nagal"
+    },
+    {
+     "blockCode": 1495,
+     "blockName": "Nakur"
+    },
+    {
+     "blockCode": 1496,
+     "blockName": "Nanauta"
+    },
+    {
+     "blockCode": 1497,
+     "blockName": "Puwarka"
+    },
+    {
+     "blockCode": 1498,
+     "blockName": "Rampur Maniharan"
+    },
+    {
+     "blockCode": 1499,
+     "blockName": "Sadauli Qadeem"
+    },
+    {
+     "blockCode": 1500,
+     "blockName": "Sarsawan"
+    }
+   ],
+   "districtCode": 177,
+   "districtName": "Saharanpur"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1412,
+     "blockName": "Asmauli"
+    },
+    {
+     "blockCode": 1413,
+     "blockName": "Bahjoi"
+    },
+    {
+     "blockCode": 1414,
+     "blockName": "Baniyakhera"
+    },
+    {
+     "blockCode": 1004,
+     "blockName": "Gunnaur"
+    },
+    {
+     "blockCode": 1007,
+     "blockName": "Junawai"
+    },
+    {
+     "blockCode": 1422,
+     "blockName": "Panwasa"
+    },
+    {
+     "blockCode": 1010,
+     "blockName": "Rajpura"
+    },
+    {
+     "blockCode": 1423,
+     "blockName": "Sambhal"
+    }
+   ],
+   "districtCode": 659,
+   "districtName": "Sambhal"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1501,
+     "blockName": "Baghauli"
+    },
+    {
+     "blockCode": 1502,
+     "blockName": "Belhar Kala"
+    },
+    {
+     "blockCode": 1503,
+     "blockName": "Hainsar Bazar"
+    },
+    {
+     "blockCode": 1504,
+     "blockName": "Khalilabad"
+    },
+    {
+     "blockCode": 1505,
+     "blockName": "Mehdawal"
+    },
+    {
+     "blockCode": 1506,
+     "blockName": "Nath Nagar"
+    },
+    {
+     "blockCode": 1507,
+     "blockName": "Pauli"
+    },
+    {
+     "blockCode": 1508,
+     "blockName": "Santha"
+    },
+    {
+     "blockCode": 1509,
+     "blockName": "Semariyawan"
+    }
+   ],
+   "districtCode": 178,
+   "districtName": "Sant Kabeer Nagar"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1516,
+     "blockName": "Banda"
+    },
+    {
+     "blockCode": 1517,
+     "blockName": "Bhawal Khera"
+    },
+    {
+     "blockCode": 1518,
+     "blockName": "Dadrol"
+    },
+    {
+     "blockCode": 1519,
+     "blockName": "Jaitipur"
+    },
+    {
+     "blockCode": 1520,
+     "blockName": "Jalalabad"
+    },
+    {
+     "blockCode": 1521,
+     "blockName": "Kalan"
+    },
+    {
+     "blockCode": 1522,
+     "blockName": "Kanth"
+    },
+    {
+     "blockCode": 1523,
+     "blockName": "Khudaganj Katra"
+    },
+    {
+     "blockCode": 1524,
+     "blockName": "Khutar"
+    },
+    {
+     "blockCode": 1525,
+     "blockName": "Madnapur"
+    },
+    {
+     "blockCode": 1526,
+     "blockName": "Mirzapur"
+    },
+    {
+     "blockCode": 1527,
+     "blockName": "Nigohi"
+    },
+    {
+     "blockCode": 1528,
+     "blockName": "Powayan"
+    },
+    {
+     "blockCode": 1529,
+     "blockName": "Sindhauli"
+    },
+    {
+     "blockCode": 1530,
+     "blockName": "Tilhar"
+    }
+   ],
+   "districtCode": 180,
+   "districtName": "Shahjahanpur"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1429,
+     "blockName": "Kairana"
+    },
+    {
+     "blockCode": 1430,
+     "blockName": "Kandhla"
+    },
+    {
+     "blockCode": 1436,
+     "blockName": "Shamli"
+    },
+    {
+     "blockCode": 1437,
+     "blockName": "Thana Bhawan"
+    },
+    {
+     "blockCode": 1438,
+     "blockName": "Un"
+    }
+   ],
+   "districtCode": 660,
+   "districtName": "Shamli"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1531,
+     "blockName": "Ekona"
+    },
+    {
+     "blockCode": 1532,
+     "blockName": "Gilaula"
+    },
+    {
+     "blockCode": 1533,
+     "blockName": "Hariharpur Rani"
+    },
+    {
+     "blockCode": 1534,
+     "blockName": "Jamunaha"
+    },
+    {
+     "blockCode": 1535,
+     "blockName": "Sirsiya"
+    }
+   ],
+   "districtCode": 181,
+   "districtName": "Shravasti"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1536,
+     "blockName": "Bansi"
+    },
+    {
+     "blockCode": 1537,
+     "blockName": "Barhni"
+    },
+    {
+     "blockCode": 1538,
+     "blockName": "Bhanwapur"
+    },
+    {
+     "blockCode": 1539,
+     "blockName": "Birdpur"
+    },
+    {
+     "blockCode": 1540,
+     "blockName": "Domariyaganj"
+    },
+    {
+     "blockCode": 1541,
+     "blockName": "Itwa"
+    },
+    {
+     "blockCode": 1542,
+     "blockName": "Jogia"
+    },
+    {
+     "blockCode": 1543,
+     "blockName": "Khesraha"
+    },
+    {
+     "blockCode": 1544,
+     "blockName": "Khuniyaon"
+    },
+    {
+     "blockCode": 1545,
+     "blockName": "Lotan"
+    },
+    {
+     "blockCode": 1546,
+     "blockName": "Mithwal"
+    },
+    {
+     "blockCode": 1547,
+     "blockName": "Naugarh"
+    },
+    {
+     "blockCode": 1548,
+     "blockName": "Shoharatgarh"
+    },
+    {
+     "blockCode": 1549,
+     "blockName": "Uska Bazar"
+    }
+   ],
+   "districtCode": 182,
+   "districtName": "Siddharth Nagar"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1550,
+     "blockName": "Ailiya"
+    },
+    {
+     "blockCode": 1551,
+     "blockName": "Behta"
+    },
+    {
+     "blockCode": 1552,
+     "blockName": "Biswan"
+    },
+    {
+     "blockCode": 1553,
+     "blockName": "Gondlamau"
+    },
+    {
+     "blockCode": 1554,
+     "blockName": "Hargaon"
+    },
+    {
+     "blockCode": 1555,
+     "blockName": "Kasmanda"
+    },
+    {
+     "blockCode": 1556,
+     "blockName": "Khairabad"
+    },
+    {
+     "blockCode": 1557,
+     "blockName": "Laharpur"
+    },
+    {
+     "blockCode": 1558,
+     "blockName": "Machhrehta"
+    },
+    {
+     "blockCode": 1559,
+     "blockName": "Mahmudabad"
+    },
+    {
+     "blockCode": 1560,
+     "blockName": "Maholi"
+    },
+    {
+     "blockCode": 1561,
+     "blockName": "Misrikh"
+    },
+    {
+     "blockCode": 1562,
+     "blockName": "Pahala"
+    },
+    {
+     "blockCode": 1563,
+     "blockName": "Parsendi"
+    },
+    {
+     "blockCode": 1564,
+     "blockName": "Pisawan"
+    },
+    {
+     "blockCode": 1565,
+     "blockName": "Rampur Mathura"
+    },
+    {
+     "blockCode": 1566,
+     "blockName": "Reusa"
+    },
+    {
+     "blockCode": 1567,
+     "blockName": "Sakran"
+    },
+    {
+     "blockCode": 1568,
+     "blockName": "Sidhauli"
+    }
+   ],
+   "districtCode": 183,
+   "districtName": "Sitapur"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1569,
+     "blockName": "Babhani"
+    },
+    {
+     "blockCode": 1570,
+     "blockName": "Chatra"
+    },
+    {
+     "blockCode": 1571,
+     "blockName": "Chopan"
+    },
+    {
+     "blockCode": 1572,
+     "blockName": "Dudhi"
+    },
+    {
+     "blockCode": 1573,
+     "blockName": "Ghorawal"
+    },
+    {
+     "blockCode": 7381,
+     "blockName": "Karma"
+    },
+    {
+     "blockCode": 7380,
+     "blockName": "Kone"
+    },
+    {
+     "blockCode": 1574,
+     "blockName": "Myorpur"
+    },
+    {
+     "blockCode": 1575,
+     "blockName": "Nagwa"
+    },
+    {
+     "blockCode": 1576,
+     "blockName": "Robertsganj"
+    }
+   ],
+   "districtCode": 184,
+   "districtName": "Sonbhadra"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1577,
+     "blockName": "Akhand Nagar"
+    },
+    {
+     "blockCode": 1579,
+     "blockName": "Baldirai"
+    },
+    {
+     "blockCode": 1580,
+     "blockName": "Bhadaiya"
+    },
+    {
+     "blockCode": 1583,
+     "blockName": "Dhanpatganj"
+    },
+    {
+     "blockCode": 1584,
+     "blockName": "Dostpur"
+    },
+    {
+     "blockCode": 1585,
+     "blockName": "Dubepur"
+    },
+    {
+     "blockCode": 1588,
+     "blockName": "Jaisinghpur"
+    },
+    {
+     "blockCode": 1590,
+     "blockName": "Kadipur"
+    },
+    {
+     "blockCode": 6714,
+     "blockName": "Karaudikala"
+    },
+    {
+     "blockCode": 1591,
+     "blockName": "Kurebhar"
+    },
+    {
+     "blockCode": 1592,
+     "blockName": "Kurwar"
+    },
+    {
+     "blockCode": 1593,
+     "blockName": "Lambhua"
+    },
+    {
+     "blockCode": 1594,
+     "blockName": "Motigarpur"
+    },
+    {
+     "blockCode": 1596,
+     "blockName": "P.P.Kamaicha"
+    }
+   ],
+   "districtCode": 185,
+   "districtName": "Sultanpur"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1600,
+     "blockName": "Asoha"
+    },
+    {
+     "blockCode": 1601,
+     "blockName": "Auras"
+    },
+    {
+     "blockCode": 1602,
+     "blockName": "Bangarmau"
+    },
+    {
+     "blockCode": 1603,
+     "blockName": "Bichhiya"
+    },
+    {
+     "blockCode": 1604,
+     "blockName": "Bighapur"
+    },
+    {
+     "blockCode": 1605,
+     "blockName": "Fatehpur Chaurasi"
+    },
+    {
+     "blockCode": 1606,
+     "blockName": "Ganj Moradabad"
+    },
+    {
+     "blockCode": 1607,
+     "blockName": "Hasanganj"
+    },
+    {
+     "blockCode": 1608,
+     "blockName": "Hilauli"
+    },
+    {
+     "blockCode": 1609,
+     "blockName": "Mianganj"
+    },
+    {
+     "blockCode": 1610,
+     "blockName": "Nawabganj"
+    },
+    {
+     "blockCode": 1611,
+     "blockName": "Purwa"
+    },
+    {
+     "blockCode": 1612,
+     "blockName": "Safipur"
+    },
+    {
+     "blockCode": 1613,
+     "blockName": "Sikandarpur Karan"
+    },
+    {
+     "blockCode": 1614,
+     "blockName": "Sikandarpur Sarausi"
+    },
+    {
+     "blockCode": 1615,
+     "blockName": "Sumerpur"
+    }
+   ],
+   "districtCode": 186,
+   "districtName": "Unnao"
+  },
+  {
+   "blocks": [
+    {
+     "blockCode": 1616,
+     "blockName": "Arajiline"
+    },
+    {
+     "blockCode": 1617,
+     "blockName": "Baragaon"
+    },
+    {
+     "blockCode": 1618,
+     "blockName": "Chiraigaon"
+    },
+    {
+     "blockCode": 1619,
+     "blockName": "Cholapur"
+    },
+    {
+     "blockCode": 1620,
+     "blockName": "Harahua"
+    },
+    {
+     "blockCode": 1621,
+     "blockName": "Kashi Vidyapeeth"
+    },
+    {
+     "blockCode": 1622,
+     "blockName": "Pindra"
+    },
+    {
+     "blockCode": 1623,
+     "blockName": "Sevapuri"
+    }
+   ],
+   "districtCode": 187,
+   "districtName": "Varanasi"
+  }
+ ]
+}
